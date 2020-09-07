@@ -1,6 +1,6 @@
 # List
-| | Chapter | Page | Speaker 1 | Speaker 2 |
-|:-:|:-----:|:----:|:---------:|:---------:|
+| | Chapter | Page |
+|:-:|:-----:|:----:|
 |1|[Deep Learning Is for Everyone](Week1)|3|
 |1|[How to Learn Deep Learning](Week1)|12|
 |2|[The Software: PyTorch, fastai, and Jupyter (And Why It Doesn’t Matter)](Week1)|12|
