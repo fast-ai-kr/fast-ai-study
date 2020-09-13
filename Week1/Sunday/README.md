@@ -1,5 +1,5 @@
 # List
-| | Chapter | Page | Speaker 1 | Speaker 2 |
+| | Part | Page | Speaker 1 | Speaker 2 |
 |:-:|:-----:|:----:|:---------:|:---------:|
 |1|[Deep Learning Is for Everyone](#1-1)|3|최민영| |
 |1|[How to Learn Deep Learning](#1-2)|12|최민영| |

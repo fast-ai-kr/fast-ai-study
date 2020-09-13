@@ -1,5 +1,5 @@
 # List
-| | Chapter | Page | Speaker 1 | Speaker 2 |
+| | Part | Page | Speaker 1 | Speaker 2 |
 |:-:|:-----:|:----:|:---------:|:---------:|
 |1|[Key Example for Data Ethnics](#1-1)|93|강인승| |
 |1|[Key Example for Data Ethnics](#1-2)|99|강인승| |

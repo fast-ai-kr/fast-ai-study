@@ -1,5 +1,5 @@
 # List
-| | Chapter | Page | Speaker 1 | Speaker 2 |
+| | Part | Page | Speaker 1 | Speaker 2 |
 |:-:|:-----:|:----:|:---------:|:---------:|
 |1|[Pixels: The Foundations of Computer Vision](#1-1)|133| | |
 |1|[First Try: Pixel Similarity:NumPy Arrays and PyTorch Tensors](#1-2)|145| | |

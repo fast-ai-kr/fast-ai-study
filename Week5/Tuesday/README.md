@@ -1,5 +1,5 @@
 # List
-| | Chapter | Page | Speaker 1 | Speaker 2 |
+| | Part | Page | Speaker 1 | Speaker 2 |
 |:-:|:-----:|:----:|:---------:|:---------:|
 |1|[From Dogs and Cats to Pet Breeds](#1-1)|185| | |
 |1|[Presizing:Checking and Debugging a DataBlocks](#1-2)|194| | |

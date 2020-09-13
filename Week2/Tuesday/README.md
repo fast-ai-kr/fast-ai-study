@@ -1,5 +1,5 @@
 # List
-| | Chapter | Page | Speaker 1 | Speaker 2 |
+| | Part | Page | Speaker 1 | Speaker 2 |
 |:-:|:-----:|:----:|:---------:|:---------:|
 |1|[The Preactice of Deep Learning](#1-1)|57|김용현| |
 |1|[The Practice of Deep Learning : The Drivetrain Approach](#1-2)|65|김용현| |

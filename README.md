@@ -1,5 +1,5 @@
 # List
-| | Chapter | Page |
+| | Part | Page |
 |:-:|:-----:|:----:|
 |1|[Deep Learning Is for Everyone](Week1)|3|
 |1|[How to Learn Deep Learning](Week1)|12|
