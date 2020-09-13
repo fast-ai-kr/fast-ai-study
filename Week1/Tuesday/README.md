@@ -17,7 +17,9 @@
 
 
 ---
+
 <div id="1-1"></div>
+
 ### 1-1. Deep Learning Is for Everyone / 1-2. How to Learn Deep Learning
 [김혁]() / [송석리]()
 
