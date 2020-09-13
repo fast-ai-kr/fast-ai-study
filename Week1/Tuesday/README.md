@@ -19,26 +19,22 @@
 ---
 
 <div id="1-1"></div>
+<div id="1-2"></div>
 
 #### 1-1. Deep Learning Is for Everyone / 1-2. How to Learn Deep Learning
-발표자료 : [김혁](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter_1_intro_%EA%B9%80%ED%98%81.pdf) / [송석리](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter_1_intro_%EC%86%A1%EC%84%9D%EB%A6%AC.pdf)
+* 발표자료 : [김혁](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter_1_intro_%EA%B9%80%ED%98%81.pdf) / [송석리](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter_1_intro_%EC%86%A1%EC%84%9D%EB%A6%AC.pdf)
 
-    
+<div id="2-1"></div>
+<div id="2-2"></div>
 
+#### 2-1. The Software: PyTorch, fastai, and Jupyter (And Why It Doesn’t Matter) / 2-2. Running Your First Notebook
+* 발표자료 : [김용현]() / [김민철](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter_1_part2_%EA%B9%80%EB%AF%BC%EC%B2%A0.pdf)
 
-    
-### 2-1. The Software: PyTorch, fastai, and Jupyter (And Why It Doesn’t Matter)
-### 2-2. Running Your First Notebook
-[김용현]()
-[김민철]()
-    
+<div id="3-1"></div>
+<div id="3-2"></div>
 
-
-
-
-### 3-1. What Is Machine Learning?
-### 3-2. Limitations Inherent to ML
-[강인승]()
+#### 3-1. What Is Machine Learning? / 3-2. Limitations Inherent to ML
+* 발표자료 : [강인승](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter1_part3_%EA%B0%95%EC%9D%B8%EC%8A%B9.pdf)
     
 
 
