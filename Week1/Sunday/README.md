@@ -23,7 +23,7 @@
 
 ### 1-1. Deep Learning Is for Everyone
 ### 1-2. How to Learn Deep Learning
-[최민영](1st_week_Sun_01_최민영.pdf)
+* 발표자료 : [최민영](1st_week_Sun_01_최민영.pdf)
 
     
 
@@ -32,7 +32,7 @@
     
 ### 2-1. The Software: PyTorch, fastai, and Jupyter (And Why It Doesn’t Matter)
 ### 2-2. Running Your First Notebook
-[김지은]()
+* 발표자료 : [김지은]()
     
 
 
@@ -41,8 +41,7 @@
 
 ### 3-1. What Is Machine Learning?
 ### 3-2. Limitations Inherent to ML
-[정주호](1st_week_Sun_03_juho.pdf)
-[이건우]()
+* 발표자료 : [정주호](1st_week_Sun_03_juho.pdf) / [이건우]()
     
 
 
@@ -53,8 +52,7 @@
 
 ### 4-1. How Our Image Recognizer Works
 ### 4-2. What Our Image Recognizer Learned
-[김지은]()
-[이기선]()
+* 발표자료 : [김지은]() / [이기선]()
     
 
 
@@ -65,7 +63,7 @@
 
 ### 5-1. Image Recognizers Can Tackle Non-Image Tasks
 ### 5-2. Deep Learning Is Not Just for Image Classification
-[김영범]()
+* 발표자료 : [김영범]()
     
 
 
@@ -76,5 +74,5 @@
 
 ### 6-1. Validation Sets and Test Sets
 ### 6-2. A Choose Your Own Adventure Moment
-[전준용]()
+* 발표자료 : [전준용]()
     
