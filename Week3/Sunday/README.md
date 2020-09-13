@@ -45,7 +45,7 @@
 <div id="4-2"></div>
 
 #### 4-1. Topics in Data Ethnics : Disinformation / 4-2. Identifying and Addressing Ethical Issues:Fairness, Accountability, and Transparency
-* 발표자료 : [김지은]()
+* 발표자료 : [김지은](3rd_week_Sun_04_김지은.pdf)
     
 
 
