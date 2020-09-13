@@ -44,11 +44,16 @@
 
 #### Feedback Loops
 알고리즘은 환경과 상호작용하여 피드백 루프를 만들 수 있으며 실제 세계에서 수행되는 작업을 강화할 수 있다. 
-하지만 알고리즘은 숫자를 최적화하기 위해 할 수 있는 모든 것을 하게된다. 이 과정에서 
+하지만 알고리즘은 숫자를 최적화하기 위해 할 수 있는 모든 것을 하게된다. 사람과 알고리즘 간의 상호작용해서 피드백 루프가 만들어질 수 있으며 심지어 사람이 없는 피드백 루프도 만들어 질 수 있다. 따라서 피드백 루프를 방지하거나 첫 징후가 보일 때 개입해야 한다. 또한 편견(편향)도 조심해야 하는데 피드백 루프와 상호작용하여 매우 큰 문제를 만들 수 있다. 
+
 * 구글 유튜브 추천 시스템의 강화학습 도입 문제 - 체류시간 및 조회수 기반 알고리즘의 문제
-* [옛 유튜브 알고리즘 담당자가 밝힌 추천 시스템의 비밀](http://www.bloter.net/archives/301890)
 * ['소아성애자 놀이터 됐다' 폭로에 유튜브 화들짝…진화 나서](https://www.yna.co.kr/view/AKR20190222053500009)
 * [On YouTube’s Digital Playground, an Open Gate for Pedophiles](https://www.nytimes.com/2019/06/03/world/americas/youtube-pedophiles.html)
+* [옛 유튜브 알고리즘 담당자가 밝힌 추천 시스템의 비밀](http://www.bloter.net/archives/301890)
+* [How an ex-YouTube insider investigated its secret algorithm](https://www.theguardian.com/technology/2018/feb/02/youtube-algorithm-election-clinton-trump-guillaume-chaslot)
+* 유튜브 영상 속 카메라 등장을 바탕으로 한 분류 문제 - 카메라가 있는 영상은 사진 채널일까? 한번 사진 채널로 분류되면 그 이후로 분류될 확률이 지속적으로 올라간다.
+* Meetup 남성/여성에게 기술 모임 추천 안내 - 모델을 짤 때 성별을 명시적으로 사용 안하여 피드백 루프 생성을 회피
+* 반면 Facebook은 이러한 점 고려 안함 : 안티 백신 그룹 가입 -> 안티GMO, 켐트레일 감시(음모론), 지구 평면설 등등의 음모론 코스 제공
 
 
-![](https://github.com/fastai/fastbook/raw/c6322c68a53c38c26fa2fd0a5898f2afcbbb721b/images/ethics/image18.jpeg)
+
