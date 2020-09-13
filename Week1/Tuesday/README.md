@@ -1,5 +1,5 @@
 # List
-| | Chapter | Page | Speaker 1 | Speaker 2 |
+| | Part | Page | Speaker 1 | Speaker 2 |
 |:-:|:-----:|:----:|:---------:|:---------:|
 |1|[Deep Learning Is for Everyone](#1-1)|3|김혁|송석리|
 |1|[How to Learn Deep Learning](#1-2)|12|김혁|송석리|
@@ -17,12 +17,9 @@
 
 
 ---
-
-
-### 1-1. Deep Learning Is for Everyone
-### 1-2. How to Learn Deep Learning
-[김혁]()
-[송석리]()
+<div id="1-1"></div>
+### 1-1. Deep Learning Is for Everyone / 1-2. How to Learn Deep Learning
+[김혁]() / [송석리]()
 
     
 
