@@ -30,13 +30,25 @@
 
 
 ### Topics in Data Ethnics
-* The need for recourse and accountability
-* Feedback loops
-* Bias
-* Disinformation
+* 의지와 책임감
+* 피드백 루프
+* 편견
+* 잘못된 정보
 
 #### Recourse and accountability
+복잡한 시스템 내에서는 결과에 대한 책임감이 약해질 수 있다. 또한 데이터에 근본적으로 오류가 있을 수 있다. 머신러닝 실무자는 알고리즘 동작 과정의 이해와 구현 뿐만 아니라 미치는 결과에 대하여 책임감을 가져야 한다. 
+* 아칸소 헬스케어 시스템 문제 - 버그로 인한 뇌성마비 치료 누락 책임 문제
+* [캘리포니아 갱 수배자 데이터베이스 문제](https://ko.livingorganicnews.com/is-gang-activity-rise-movement-abolish-gang-databases-makes-it-hard-tell-313704)
+* 2012 년 연방 거래위원회 (FTC)의 대규모 신용보고 연구
+* 공영 라디오 리포터 Bobby Allyn의 총기 유죄 판결 오기재 사건 
 
 #### Feedback Loops
+알고리즘은 환경과 상호작용하여 피드백 루프를 만들 수 있으며 실제 세계에서 수행되는 작업을 강화할 수 있다. 
+하지만 알고리즘은 숫자를 최적화하기 위해 할 수 있는 모든 것을 하게된다. 이 과정에서 
+* 구글 유튜브 추천 시스템의 강화학습 도입 문제 - 체류시간 및 조회수 기반 알고리즘의 문제
+* [옛 유튜브 알고리즘 담당자가 밝힌 추천 시스템의 비밀](http://www.bloter.net/archives/301890)
+* ['소아성애자 놀이터 됐다' 폭로에 유튜브 화들짝…진화 나서](https://www.yna.co.kr/view/AKR20190222053500009)
+* [On YouTube’s Digital Playground, an Open Gate for Pedophiles](https://www.nytimes.com/2019/06/03/world/americas/youtube-pedophiles.html)
+
 
 ![](https://github.com/fastai/fastbook/raw/c6322c68a53c38c26fa2fd0a5898f2afcbbb721b/images/ethics/image18.jpeg)
