@@ -1,3 +1,8 @@
+# 2020 fast.ai study 활동기록 저장소
+* 이 저장소는 2020 fast.ai study의 활동기록을 저장하는 저장소입니다.
+> * [fast.ai 스터디 발표자 시트](https://docs.google.com/spreadsheets/d/1lODZM9jW_sfR_ai9Aw-_bBy5MNxA16KZxJ1T1qsY9u4/edit#gid=270003804)
+
+
 # List
 | | Part | Page |
 |:-:|:-----:|:----:|
