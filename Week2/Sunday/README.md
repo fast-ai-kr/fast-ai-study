@@ -28,7 +28,7 @@
 <div id="2-2"></div>
     
 #### 2-1. Gathering Data / 2-2. Gathering Data
-* 발표자료 : [최민영]()
+* 발표자료 : [최민영](2nd_week_Sun_02,%2003_최민영.pdf)
     
 
 
@@ -36,7 +36,7 @@
 <div id="3-2"></div>
 
 #### 3-1. From Data to DataLoaders / 3-2. Training Your Model, and Using It to Clean Your Data
-* 발표자료 : [최민영]()
+* 발표자료 : [최민영](2nd_week_Sun_02,%2003_최민영.pdf)
     
 
 
