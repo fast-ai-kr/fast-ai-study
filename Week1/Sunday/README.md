@@ -38,7 +38,7 @@
 <div id="3-2"></div>
 
 #### 3-1. What Is Machine Learning? / 3-2. Limitations Inherent to ML
-* 발표자료 : [정주호](1st_week_Sun_03_juho.pdf) / [이건우]()
+* 발표자료 : [정주호](1st_week_Sun_03_juho.pdf) / [이건우](1st_week_Sun_03_keonwoo.pdf)
     
 
 
