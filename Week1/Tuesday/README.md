@@ -20,8 +20,8 @@
 
 <div id="1-1"></div>
 
-### 1-1. Deep Learning Is for Everyone / 1-2. How to Learn Deep Learning
-[김혁]() / [송석리]()
+#### 1-1. Deep Learning Is for Everyone / 1-2. How to Learn Deep Learning
+발표자료 : [김혁](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter_1_intro_%EA%B9%80%ED%98%81.pdf) / [송석리](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter_1_intro_%EC%86%A1%EC%84%9D%EB%A6%AC.pdf)
 
     
 
