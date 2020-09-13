@@ -35,34 +35,22 @@
 
 #### 3-1. What Is Machine Learning? / 3-2. Limitations Inherent to ML
 * 발표자료 : [강인승](https://github.com/fast-ai-kr/fast-ai-study/blob/master/Week1/Tuesday/1st_week_Tue_Chapter1_part3_%EA%B0%95%EC%9D%B8%EC%8A%B9.pdf)
+
+<div id="4-1"></div>
+<div id="4-2"></div>
+
+#### 4-1. How Our Image Recognizer Works / 4-2. What Our Image Recognizer Learned
+* 발표자료 : [김지은]()
     
+<div id="5-1"></div>
+<div id="5-2"></div>
 
-
-
-
-
-
-### 4-1. How Our Image Recognizer Works
-### 4-2. What Our Image Recognizer Learned
-[김지은]()
+#### 5-1. Image Recognizers Can Tackle Non-Image Tasks / 5-2. Deep Learning Is Not Just for Image Classification
+* 발표자료 : [김지은]()
     
+<div id="6-1"></div>
+<div id="6-2"></div>
 
-
-
-
-
-
-### 5-1. Image Recognizers Can Tackle Non-Image Tasks
-### 5-2. Deep Learning Is Not Just for Image Classification
-[김지은]()
-    
-
-
-
-
-
-
-### 6-1. Validation Sets and Test Sets
-### 6-2. A Choose Your Own Adventure Moment
-[ ]()
+#### 6-1. Validation Sets and Test Sets / 6-2. A Choose Your Own Adventure Moment
+* 발표자료 : [ ]()
     
