@@ -55,5 +55,5 @@
 <div id="5-2"></div>
 
 #### 5-1. Role of Policy / 5-2. Deep Learning in Practice : That's a Wrap!
-* 발표자료 : [조윤희]()
+* 발표자료 : [조윤희](3rd_week_Sun_05_조윤희.pdf)
   
