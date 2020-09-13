@@ -16,44 +16,50 @@
 
 ---
 
+<div id="1-1"></div>
+<div id="1-2"></div>
 
 ### 1-1. The Practice of Deep Learning
 ### 1-2. The Practice of Deep Learning : The Drivetrain Approach
-[김용현]()
+* 발표자료 : [김용현]()
 
     
 
-
+<div id="2-1"></div>
+<div id="2-2"></div>
     
 ### 2-1. Gathering Data
 ### 2-2. Gathering Data
-[강인승]()
+* 발표자료 : [강인승](Week2_Ch2_Part2_강인승.pdf)
     
 
 
-
+<div id="3-1"></div>
+<div id="3-2"></div>
 
 ### 3-1. From Data to DataLoaders
 ### 3-2. Training Your Model, and Using It to Clean Your Data
-[강인승]()
+* 발표자료 : [강인승](Week2_Ch2_Part3_강인승.pdf)
     
 
 
 
 
-
+<div id="4-1"></div>
+<div id="4-2"></div>
 
 ### 4-1. Tuning Your Model into an Online Application
 ### 4-2. Tuning Your Model into an Online Application:Deploying Your App
-[김지은]()
+* 발표자료 : [김지은]()
     
 
 
 
-
+<div id="5-1"></div>
+<div id="5-2"></div>
 
 
 ### 5-1. How to Avoid Disaster
 ### 5-2. Questionaire : Further Research
-[ ]()
+* 발표자료 : [ ]()
   
