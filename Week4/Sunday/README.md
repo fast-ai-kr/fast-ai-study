@@ -36,7 +36,7 @@
 <div id="3-2"></div>
 
 #### 3-1. Stochastic Gradient Descent:Stepping with a Learning Rate / 3-2. Stochastic Gradient Descent:Summarizing Gradient Descent
-* 발표자료 : [김지은]()
+* 발표자료 : [김지은](4th_Week_Sun_03_김지은.pdf)
     
 
 
