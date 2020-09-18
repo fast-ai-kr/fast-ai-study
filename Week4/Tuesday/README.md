@@ -3,7 +3,7 @@
 |:-:|:-----:|:----:|:---------:|:---------:|
 |1|[Pixels: The Foundations of Computer Vision](#1-1)|133|김용현|송석리|
 |1|[First Try: Pixel Similarity:NumPy Arrays and PyTorch Tensors](#1-2)|145|김용현|송석리|
-|2|[Computing Metrics Using Broadcastingn](#2-1)|145|이준택| |
+|2|[Computing Metrics Using Broadcasting](#2-1)|145|이준택| |
 |2|[Stochastic Gradient Descent:Calculating Gradients](#2-2)|156|이준택| |
 |3|[Stochastic Gradient Descent:Stepping with a Learning Rate](#3-1)|157|김지은| |
 |3|[Stochastic Gradient Descent:Summarizing Gradient Descent](#3-2)|163|김지은| |
