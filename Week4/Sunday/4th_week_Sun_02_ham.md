@@ -113,7 +113,109 @@ accuracy_3s,accuracy_7s,(accuracy_3s+accuracy_7s)/2
 ## Stochastic Gradient Descent (SGD)
 ## 확률적 경사 하강법 (SGD)
 
+앞의 방법으로는 학습을 통해 점차 성능이 개성되어야 하는데 우리가 만든 모델은 그렇지 않았다.
+이미지와 `이상적인 이미지` 간의 거리를 통해 유사도를 찾는 것 대신 다른 방법이 필요하다.
+각 부분마다 다른 가중치(weight)를 가지는데 이를 이용하여 성능을 개선하는 함수를 다음과 같이 나타낼 수 있다.
+
+```python
+def pr_eight(x,w) = (x*w).sum()
+```
+
+
+우리는 주어진 이미지가 특정 것에 가까우는지(예를 들어 8) 구분하는데 적절한 w 값을 찾기를 원한다.
+
+이러한 것들을 위해 머신 러닝 분류는 다음과 같은 단계를 거친다.
+1. Initialize the weights.
+1. For each image, use these weights to predict whether it appears to be a 3 or a 7.
+1. Based on these predictions, calculate how good the model is (its loss).
+1. Calculate the gradient, which measures for each weight, how changing that weight would change the loss
+1. Step (that is, change) all the weights based on that calculation.
+1. Go back to the step 2, and repeat the process.
+1. Iterate until you decide to stop the training process (for instance, because the model is good enough or you don't want to wait any longer).
+
+![image](https://user-images.githubusercontent.com/1307187/93710455-eafca400-fb81-11ea-99d3-dbc0ec962909.png)
+
+* 초기화 :: 랜덤 값으로 초기화한다. 어차피 반복되면 최적값을 찾아낼 것이기에 초기값은 중요치 않다.
+* Loss :: weight에 대한 모델의 성능을 수치적으로 얻을 수 있는 함수가 있어야 한다. 일반적으로 작을 수록 좋고 클수록 나쁘다.
+* 스텝 :: weight가 증가하거나 감소하게 하는 단계. 너무 작으면 너무 느려진다. 경사(gradient)를 계산하는 방식으로 성능 최적화를 통하여 적은 작업으로 빗슷한 결과를 얻을 수 있다.
+* 종료 :: 모델 학습을 위하여 얼마나 많이 반복(epoch)할지 여부를 정해야 한다.  
+
+```python
+def f(x): return x**2
+plot_function(f, 'x', 'x**2')
+```
+![image](https://user-images.githubusercontent.com/1307187/93710572-cb19b000-fb82-11ea-9581-485c5ad7b2ac.png)
+
+
+어느 위치의 한 값(여기서는 -1.5)를 정하고 loss를 구한다. 
+```python
+plot_function(f, 'x', 'x**2')
+plt.scatter(-1.5, f(-1.5), color='red');
+plot_function(f, 'x', 'x**2')
+```
+![image](https://user-images.githubusercontent.com/1307187/93710597-e8e71500-fb82-11ea-91a6-393c7ca09d58.png)
+
+여기서 각 포인트에 따라 따라서 경사 값이 달라진다는 것을 확인할 수 있다.
+
+![image](https://user-images.githubusercontent.com/1307187/93710603-f1d7e680-fb82-11ea-8888-8e40d2386ab2.png)
+
+아래와 같이 반복할 수록 경사도는 점점 작아져서 loss의 최저 포인트에 이르게 된다.
+
+![image](https://user-images.githubusercontent.com/1307187/93710609-f7cdc780-fb82-11ea-9585-9a0536a0a7e6.png)
+
+이런식으로 최적의 값을 계산해낼 수 있다. 이에 대해서는 추후 장에서 다시 다룰 것이다.
+
 ### Calculating Gradients
 ### 그라디언트 계산하기
 
+고등학교 때 미분 공부가 필요하다면 칸 아카데미 가설 들어봐라. (https://www.khanacademy.org/math/differential-calculus/dc-diff-intro)
+PyTorch 쓰면 간단하게 미분 계산 된다. 아래와 같이 require_grad_()를 추가해주고 .backward() 메소드를 실행해서 계산해주면 된다.
+```python
+xt = tensor(3.).requires_grad_()
+yt = f(xt)
+yt
+```
+```python
+tensor(9., grad_fn=<PowBackward0>)
+```
+```python
+yt.backward()
+```
+`backward`는 역전파(*backpropagation*)에서 온 것으로 jargon 용어이다. `calculate_grad`라 이해하며 된다.
 
+```python
+xt.grad
+```
+```python
+tensor(6.)
+```
+
+```python
+xt = tensor([3.,4.,10.]).requires_grad_()
+xt
+```
+```python
+tensor([ 3.,  4., 10.], requires_grad=True)
+```
+`sum`을 넣어서 함수를 벡터(rank-1 tensor)를 처리할 수 있도록 하여 스칼라(rank-0 tensor)를 받는다.
+
+def f(x): return (x**2).sum()
+
+```python
+yt = f(xt)
+yt
+```
+```python
+tensor(125., grad_fn=<SumBackward0>)
+```
+우리의 그라디언트는 `2*xt`였다. 예상대로다.
+
+```python
+yt.backward()
+xt.grad
+```
+```python
+tensor([ 6.,  8., 20.])
+```
+
+그라디언트는 단지 우리 함수의 경사(slope)일 뿐이다. 정확히 최적 파라미터로부터 얼마나 떨어져있는지 정확히 알려주지는 못한다. 하지만 아이디어는 얻을 수 있으며 경사가 매우 크고 작음에 따라 최적화된 값에 접근했는지 여부를 추측할 수 있다.
