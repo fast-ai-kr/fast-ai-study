@@ -1,7 +1,7 @@
 참고 : https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb
 
 # 04. Under the Hood: Training a Digit Classifier
-# 04. 내부 살펴보기: 숫자 분류 학습 
+# 04. 내부 살펴보기: 숫자 분류 훈련
 
 ## Computing Metrics Using Broadcasting
 ## 브로드캐스팅을 이용한 메트릭 계산
