@@ -56,8 +56,26 @@
 |24|[Improving Our Model:Unfreezing and Transfer Learning](Week5)|210|
 |25|[Improving Our Model:Discriminative Learning Rates](Week5)|210|
 |25|[Questionnaire:Further Research](Week5)|217|
-
-
+|26|[Other Computer Vision Problems: Multi-Label Classification](Week6)|219|
+|26|[Other Computer Vision Problems: Binary Cross Entropy](Week6)|231|
+|27|[Other Computer Vision Problems: Regression](Week6)|231|
+|27|[Other Computer Vision Problems: Questionnaire](Week6)|239|
+|28|[Training a State-of-the-Art Model: Imagenette](Week6)|239|
+|28|[Training a State-of-the-Art Model: Questionnaire](Week6)|252|
+|29|[Collaborative Filtering: A First Look at the Data](Week6)|253|
+|29|[Collaborative Filtering: Creating Our Own Embedding Module](Week6)|266|
+|30|[Collaborative Filtering: Interpreting Embeddings and Biases](Week6)|267|
+|30|[Collaborative Filtering: Questionnaire](Week6)|276|
+|31|[Categorical Embeddings](Week7)|277|
+|31|[The Dataset: Look at the Data](Week7)|286|
+|32|[Decision Trees](Week7)|287|
+|32|[Decision Trees: Categorical Variables](Week7)|297|
+|33|[Random Forests](Week7)|298|
+|33|[Model Interpretation: Removing Redundant Features](Week7)|306|
+|34|[Model Interpretation: Partial Dependence](Week7)|308|
+|34|[Extrapolation and Neural Networks: Finding Out-of-Domain Data](Week7)|318|
+|35|[Extrapolation and Neural Networks: Using a Neural Network](Week7)|318|
+|35|[Conclusion](Week7)|327|
 
 ---
 
