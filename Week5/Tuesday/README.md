@@ -34,7 +34,7 @@
 <div id="3-2"></div>
 
 #### 3-1. Model Interpretation / 3-2. Improving Our Model:Unfreezing and Transfer Learning
-* 발표자료 : [강인승]()
+* 발표자료 : [강인승](5th_Week_Tue_03_강인승.pdf)
     
 
 

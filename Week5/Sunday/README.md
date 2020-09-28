@@ -44,5 +44,5 @@
 <div id="4-2"></div>
 
 #### 4-1. Improving Our Model:Discriminative Learning Rates / 4-2. Questionnaire:Further Research
-* 발표자료 : [조윤희]()
+* 발표자료 : [조윤희](5th_Week_Sun_04_조윤희.pdf)
     
