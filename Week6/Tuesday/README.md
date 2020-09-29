@@ -28,7 +28,7 @@
 <div id="2-2"></div>
     
 #### 2-1. Other Computer Vision Problems: Regression / 2-2. Other Computer Vision Problems: Questionnaire
-* 발표자료 : [강인승](6th_Week_Tue_02_강인승.pdf), [ipynb](FastAI_Week6_Part2_강인승.ipynb)
+* 발표자료 : [강인승](6th_Week_Tue_02_강인승.pdf)[[ipynb](FastAI_Week6_Part2_강인승.ipynb)]
     
 
 
@@ -36,7 +36,7 @@
 <div id="3-2"></div>
 
 #### 3-1. Training a State-of-the-Art Model: Imagenette / 3-2. Training a State-of-the-Art Model: Questionnaire
-* 발표자료 : [강인승](6th_Week_Tue_03_강인승.pdf), [ipynb](FastAI_Week6_Part3_강인승.ipynb)
+* 발표자료 : [강인승](6th_Week_Tue_03_강인승.pdf)[[ipynb](FastAI_Week6_Part3_강인승.ipynb)]
     
 
 
