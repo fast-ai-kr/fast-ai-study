@@ -76,6 +76,14 @@
 |34|[Extrapolation and Neural Networks: Finding Out-of-Domain Data](Week7)|318|
 |35|[Extrapolation and Neural Networks: Using a Neural Network](Week7)|318|
 |35|[Conclusion](Week7)|327|
+|36|[Text Preprocessing](Week8)|329|
+|36|[Putting Our Texts into Batches for a Language Model](Week8)|342|
+|37|[Training a Text Classifier](Week8)|342|
+|37|[Fine-Tuning the Classifier](Week8)|350|
+|38|[Going Deeper into fastai's Layered API](Week8)|350|
+|38|[Pipeline](Week8)|359|
+|39|[TfmdLists and Datasets: Transformed Collections](Week8)|359|
+|39|[Understanding fastai's Applications: Wrap Up](Week8)|373|
 
 ---
 
