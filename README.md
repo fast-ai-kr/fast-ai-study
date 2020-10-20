@@ -84,6 +84,16 @@
 |38|[Pipeline](Week8)|359|
 |39|[TfmdLists and Datasets: Transformed Collections](Week8)|359|
 |39|[Understanding fastai's Applications: Wrap Up](Week8)|373|
+|40|[The Data, Our First Language Model from Scratch](#1-1)|373|
+|40|[Our First Recurrent Neural Network](#1-2)|381|
+|41|[Improving the RNN](#2-1)|381|
+|41|[Creating More Signal](#2-2)|386|
+|42|[Multilayer RNNs](#3-1)|386|
+|42|[Exploding or Disappearing Activations](#3-2)|390|
+|43|[LSTM](#4-1)|390|
+|43|[Training a Language Model Using LSTMs](#4-2)|394|
+|44|[Regularizing an LSTM](#5-1)|394|
+|44|[Further Research](#5-2)|402|
 
 ---
 
